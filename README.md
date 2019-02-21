@@ -1,4 +1,4 @@
-## A repository containing supporting source codes and other materials of my Ph.D. thesis entitled "Studies into Characterizing and Negating Certain Noise Signal".
+### A repository containing supporting source codes and other materials of the Ph.D. thesis titled "Studies into Characterizing and Negating Certain Noise Signal".
 
 ### Supplementary code to reproduce the results
 
