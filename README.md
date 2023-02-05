@@ -9,20 +9,22 @@
 
 ### How to run the program
 Open terminal in any of the Cluster(e.g. Cluster_0) directory and run.
-```sh
+
+```bash
 $ python RunMeClustered.py
 ```
 This will do the simulation and log the results. In our case it took around ~12 Hours.
 
 ### Recreate the figures
-```sh
+
+```bash
 $ python ScatterMap.py
 ```
 
 
 ### Systems Tested
 
-```
+```console
 |OS Linux|Machine|OptiPlex 7010 (OptiPlex 7010)|64 bits|RAM 8GiB|
 CPU : Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
 
